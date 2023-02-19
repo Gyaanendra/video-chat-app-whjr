@@ -1,0 +1,13 @@
+{
+  "name": "videochatapp-yarn",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "peer": "^0.6.1",
+    "socket.io": "^4.6.0",
+    "uuid": "^9.0.0"
+  }
+}
