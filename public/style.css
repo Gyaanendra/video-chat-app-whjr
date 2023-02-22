@@ -116,6 +116,13 @@ video {
     color: #fff;
 }
 
+.background_red{
+  background-color: #f54b70e1;
+}
+.background_red_cam{
+  background-color: #f54b70e1;
+}
+
 @media (max-width: 700px) {
     #show_chat {
         display: flex;
